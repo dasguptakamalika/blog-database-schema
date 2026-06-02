@@ -48,7 +48,7 @@ PostgreSQL is also free, reliable and easy to find help for online.
 
 ---
 
-## Relationships
+## Relationships        
 
 - One user can create many posts.
 - Each post belongs to one user.
